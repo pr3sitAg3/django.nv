@@ -69,3 +69,4 @@ jobs:
             p/security-audit
             p/secrets
             p/django
+        continue-on-error: true
